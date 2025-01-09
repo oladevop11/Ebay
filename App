@@ -1,0 +1,8 @@
+#!/bin/sh
+echo "Apps are profound"
+echo "Nothings sweet as devops when you have a good mastery of it"
+echo "Its good to earnest idea in tech"
+sleep 20
+echo "Will love to be a pro in tecg by God grace"
+echo "Today is the: "
+date
