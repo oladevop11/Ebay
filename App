@@ -6,3 +6,4 @@ sleep 20
 echo "Will love to be a pro in tecg by God grace"
 echo "Today is the: "
 date
+echo "End of codes/scripts"
